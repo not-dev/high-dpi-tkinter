@@ -8,7 +8,10 @@ Resolve blurred tkinter text + scaling on Windows 10 high DPI displays
 
 ## Installation
 
+Install using pip
+
 ```sh
+pip install hdpitkinter
 ```
 
 ## Usage
@@ -23,3 +26,7 @@ root.mainloop()
 ## License
 
 MIT License
+
+## Citation
+
+<https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp>
