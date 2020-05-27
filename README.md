@@ -1,4 +1,4 @@
-English / [Japanese](./README_JP.md)
+English / [日本語](./README_JP.md)
 
 <!-- ![](./res/) -->
 
