@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 flake8 = "*"
 mypy = "*"
-yapf = "*"
+black = "*"
 
 [packages]
 python-dotenv = "*"
