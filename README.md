@@ -2,9 +2,9 @@ English / [Japanese](./README_JP.md)
 
 <!-- ![](./res/) -->
 
-# Sharp-Tkinter-Window-High-DPI
+# High-DPI-Tkinter
 
-Resolve blurred tkinter text + scaling on Windows 10 high DPI displays
+Sharpen blurry Tkinter scaling on Windows 10 high DPI displays
 
 ## Installation
 

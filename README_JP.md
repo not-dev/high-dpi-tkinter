@@ -2,9 +2,9 @@
 
 <!-- ![](./res/) -->
 
-# Sharp-Tkinter-Window-High-DPI
+# High-DPI-Tkinter
 
-TkinterがWindows10の高DPIディスプレイでぼやける問題の対処
+Windows10の高DPIディスプレイでぼやけるTkinterを鮮明に
 
 ## インストール
 
