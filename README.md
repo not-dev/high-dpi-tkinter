@@ -1,5 +1,3 @@
-English / [日本語](./README_JP.md)
-
 <!-- ![](./res/) -->
 
 # High-DPI-Tkinter
@@ -16,10 +14,15 @@ pip install hdpitkinter
 
 ## Usage
 
+Replace tkinter.Tk() to hdpitkinter.HdpiTk()
+
 ```python
+# from tkinter import Tk
 from hdpitkinter import HdpiTk
 
+# root = Tk()
 root = HdpiTk()
+# After that use like Tk instance
 root.mainloop()
 ```
 
@@ -29,4 +32,4 @@ MIT License
 
 ## Citation
 
-<https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp>
+Packaged by citing <https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp>
