@@ -30,6 +30,6 @@ root.mainloop()
 
 MIT License
 
-## Citation
+## Thanks
 
-Packaged by citing <https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp>
+<https://stackoverflow.com/questions/41315873/attempting-to-resolve-blurred-tkinter-text-scaling-on-windows-10-high-dpi-disp>
